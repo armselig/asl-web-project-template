@@ -1,9 +1,5 @@
 {
-  "extends": [
-    "stylelint-config-standard",
-    "stylelint-config-html",
-    "stylelint-prettier/recommended"
-  ],
+  "extends": ["stylelint-config-standard", "stylelint-config-html"],
   "rules": {
     "at-rule-empty-line-before": [
       "always",
